@@ -39,7 +39,7 @@ const routes = [
   ... etc.
 ]
 ```
-
+## (idea) If you have a jest test suite:
 If you have a working jest test suite you can 
 1. make a test that outputs this result.
 2. ignore the test in your normal test suite.
