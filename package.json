@@ -1,0 +1,24 @@
+{
+  "name": "rr-routes",
+  "version": "0.0.1",
+  "description": "Utility function to print react router routes in a react application",
+  "main": "route-util.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelDimmitt/react-route-lister.git"
+  },
+  "keywords": [
+    "react-router",
+    "react",
+    "cli"
+  ],
+  "author": "michael dimmitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelDimmitt/react-route-lister/issues"
+  },
+  "homepage": "https://github.com/MichaelDimmitt/react-route-lister#readme"
+}
